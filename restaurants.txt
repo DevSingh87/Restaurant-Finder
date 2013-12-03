@@ -1,0 +1,8 @@
+pizza circle	uttam nagar new delhi	italian	pizza	350
+grover sweets	dwarka mod new delhi	north indian	fast food	150
+EAT-ally	vikaspuri new delhi	continental	fast food	300
+sagar ratna	saket	south indian	dosa	150
+club voss	dwarka	pub lounge	liquor	250
+chicken point	uttam nagar new delhi	north indian	chicken	250
+chutney chang	mg road bangalore	chinese	noodles	150
+toit	indiranagar bangalore	american	hot dog	100
