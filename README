@@ -1,0 +1,16 @@
+The Restaurant Finder is an Ruby based command-line applicaiton which allows you to consult a list of restaurants to decide what to eat.
+
+-OVERVIEW-
+
+
+# Launched from the command line
+
+# Rolodex of our favourite restaurants
+  - Stored in a text file
+  
+# Allows user interaction
+
+# List restaurants
+  - Name, cuisine and place
+  - Sortable
+  - Find restaurant by keyword
